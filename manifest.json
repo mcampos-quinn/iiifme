@@ -55,7 +55,7 @@
 					"service": {
 						"profile": "http://iiif.io/api/image/2/level2.json",
 						"@context": "http://iiif.io/api/image/2/context.json",
-						"@id": "https://ids.lib.harvard.edu/ids/iiif/f00f0095-aabc-40e3-a8bf"
+						"@id": "https://webapps.cspace.berkeley.edu/cinefiles/imageserver/blobs/f00f0095-aabc-40e3-a8bf"
 					},
 					"format": "image/jpeg",
 					"height": 999,
